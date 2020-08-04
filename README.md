@@ -3,7 +3,7 @@
 ## Description
     Offline budget tracker is a web application that makes tracking your finances easy! It has full offline functionality, very exciting.
 
-![Deployed Application Screenshot](./public/assets/screenshots/ss1.png)
+![Deployed Application Screenshot](./public/screenshots/ss1.png)
   
   ## Table of Contents
   1. [UserStory](#UserStory)
