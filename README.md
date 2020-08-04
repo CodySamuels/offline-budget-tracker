@@ -33,6 +33,6 @@
   
   [Git Hub Username](https://www.github.com/CodySamuels)
   
-  [The Repo](https://github.com/CodySamuels/burger-logger)
+  [The Repo](https://github.com/CodySamuels/offline-budget-tracker)
 
-  [The Deployed Link](https://cs-burger.herokuapp.com/)
+  [The Deployed Link](https://cs-budget-tracker.herokuapp.com/)
